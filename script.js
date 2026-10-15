@@ -1,5 +1,4 @@
-// =====================================================
-// RULETA DE BABILONIA - EDUCACIÓN FINANCIERA
+/ RULETA DE BABILONIA - EDUCACIÓN FINANCIERA
 // Basada en el Manual de Educación Financiera de Banco Nación
 // =====================================================
 
